@@ -1,11 +1,11 @@
 
 body {
-  background-image: url(file:///C:/Users/Martin/Desktop/ArgentinaPrograma%204.0/proyecto%20final%201/imagenes/listo.jpg);
+  background-image: url(https://raw.githubusercontent.com/racied92/racied92.github.io/proyecto-final/imagenes/listo.jpg);
   background-size:cover ;
 }
 header {
     max-height: 100% ;
-    background-image: url(file:///C:/Users/Martin/Desktop/ArgentinaPrograma%204.0/proyecto%20final%201/imagenes/trabajando.jpg);
+    background-image: url(https://raw.githubusercontent.com/racied92/racied92.github.io/proyecto-final/imagenes/trabajando.jpg);
     background-position:center;
     background-size:cover ;
     ;
